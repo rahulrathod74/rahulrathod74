@@ -1,4 +1,4 @@
-<h3 align="center">A passionate Full-stack developer from India</h3>
+<h3 align="center">Welcome to my GitHub profile! I am an aspiring full stack developer with a strong passion for creating innovative and efficient web applications. My journey in software development encompasses both front-end and back-end technologies, with a focus on delivering high-quality code and user-centric solutions. Explore my repositories to see projects that reflect my dedication to learning and growing in this field. Feel free to connect or reach out for collaboration opportunities</h3>
 
 - 👨‍💻 All of my projects are available at [https://myprotfolio-1.netlify.app/](https://myprotfolio-1.netlify.app/)
 
